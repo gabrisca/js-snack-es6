@@ -23,7 +23,6 @@ $(function (){
   ];
   
   for(let player of basketTeam){
-    
     player.cod = strGenerator() + getNum(100,999);
     // console.log(basketTeam.cod);
     player.mediaP = getNum(0,50);
