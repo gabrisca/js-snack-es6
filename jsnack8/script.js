@@ -21,7 +21,7 @@ $(function(){
       "GitHub",
       "Twitter",
     ],
-    activeTab: 0
+    activeTab: 0  
   }
   // console.log(window);
 
